@@ -7,11 +7,7 @@ import Swal from "sweetalert2";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 
-export async function generateStaticParams() {
-  return products.map((product) => ({
-    id: product.id.toString(),
-  }));
-}
+
 export default function ProductDetails({ params }) {
   const { id } = useParams();
   const [count, setCount] = useState(1);

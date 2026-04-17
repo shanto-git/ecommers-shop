@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Men's T-Shirt",
+    "photoURL": "https://www.siwaklifestyle.com/media/2024/09/SST0245.webp",
+    "category": "men",
+    "price": 15.99,
+    "rating": 4.5,
+    "description": "Comfortable cotton t-shirt for everyday wear.",
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "name": "Women's Summer Dress",
+    "photoURL": "https://ae01.alicdn.com/kf/H6d761fd6b5ff4641957fb82680a5e929E.jpg",
+    "category": "women",
+    "price": 29.99,
+    "rating": 4.7,
+    "description": "Lightweight floral summer dress.",
+    "quantity": 30
+  },
+  {
+    "id": 3,
+    "name": "Kids Hoodie",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/1423b1e09ced2b042d9573331c711b4d.jpg_720x720q80.jpg",
+    "category": "kids",
+    "price": 19.99,
+    "rating": 4.3,
+    "description": "Warm hoodie for kids with soft fabric.",
+    "quantity": 40
+  },
+  {
+    "id": 4,
+    "name": "Men's Jeans",
+    "photoURL": "https://cdn.othoba.com/images/thumbs/0988094_mens-jeans-pant.jpeg",
+    "category": "men",
+    "price": 39.99,
+    "rating": 4.6,
+    "description": "Slim fit denim jeans.",
+    "quantity": 25
+  },
+  {
+    "id": 5,
+    "name": "Women's Handbag",
+    "photoURL": "https://www.potapot.com/image/product_image/blue1.jpg",
+    "category": "women",
+    "price": 49.99,
+    "rating": 4.8,
+    "description": "Stylish leather handbag.",
+    "quantity": 20
+  },
+  {
+    "id": 6,
+    "name": "Kids Sneakers",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/b199cf21c3fbc4a226d8557cd3c2fcf6.jpg_720x720q80.jpg",
+    "category": "kids",
+    "price": 24.99,
+    "rating": 4.4,
+    "description": "Comfortable sneakers for active kids.",
+    "quantity": 35
+  },
+  {
+    "id": 7,
+    "name": "Men's Jacket",
+    "photoURL": "https://pluspoint.com.bd/cdn/shop/files/IMG_7811.jpg?v=1765035698&width=1946",
+    "category": "men",
+    "price": 59.99,
+    "rating": 4.7,
+    "description": "Warm winter jacket.",
+    "quantity": 15
+  },
+  {
+    "id": 8,
+    "name": "Women's Heels",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/bb7dbd17a7dd77773f96acddd8acb58d.jpg_720x720q80.jpg",
+    "category": "women",
+    "price": 34.99,
+    "rating": 4.5,
+    "description": "Elegant high heels.",
+    "quantity": 18
+  },
+  {
+    "id": 9,
+    "name": "Kids T-Shirt",
+    "photoURL": "https://www.crazytoes.in/cdn/shop/products/dino-kids-t-shirt-summer-fun-with-trendy-print-on-the-back-369048.jpg?v=1693463911",
+    "category": "kids",
+    "price": 12.99,
+    "rating": 4.2,
+    "description": "Soft cotton t-shirt for kids.",
+    "quantity": 60
+  },
+  {
+    "id": 10,
+    "name": "Men's Sneakers",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/42149064d7e9a5bc2a86ee036507a30f.jpg_720x720q80.jpg",
+    "category": "men",
+    "price": 45.99,
+    "rating": 4.6,
+    "description": "Sporty and comfortable sneakers.",
+    "quantity": 28
+  },
+  {
+    "id": 11,
+    "name": "Women's Jacket",
+    "photoURL": "https://thursdayboots.com/cdn/shop/products/1024x1024-Womens-Jackets-Edition-OldEnglish-102722-1.jpg?v=1668209382&width=1024",
+    "category": "women",
+    "price": 54.99,
+    "rating": 4.7,
+    "description": "Trendy winter jacket.",
+    "quantity": 22
+  },
+  {
+    "id": 12,
+    "name": "Kids Shorts",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/65855f9ddd29441bf5d1d5a693d4d95e.jpg_960x960q80.jpg_.webp",
+    "category": "kids",
+    "price": 14.99,
+    "rating": 4.3,
+    "description": "Comfortable summer shorts.",
+    "quantity": 45
+  },
+  {
+    "id": 13,
+    "name": "Men's Polo Shirt",
+    "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRLzBTxzWSPvW8QaEN-gm72_KFO9nzvWyVA&s",
+    "category": "men",
+    "price": 22.99,
+    "rating": 4.4,
+    "description": "Stylish polo shirt.",
+    "quantity": 32
+  },
+  {
+    "id": 14,
+    "name": "Women's Skirt",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/500ea1a8c9a4eeeb2414b24f4053fbb6.jpg_960x960q80.jpg_.webp",
+    "category": "women",
+    "price": 27.99,
+    "rating": 4.5,
+    "description": "Casual midi skirt.",
+    "quantity": 26
+  },
+  {
+    "id": 15,
+    "name": "Kids Jacket",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/03aff360b57e43fde02048e309fb5816.jpg_960x960q80.jpg_.webp",
+    "category": "kids",
+    "price": 29.99,
+    "rating": 4.6,
+    "description": "Warm jacket for kids.",
+    "quantity": 20
+  },
+  {
+    "id": 16,
+    "name": "Men's Watch",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/1ac554249c8eed385d31659a3320651a.jpg_960x960q80.jpg_.webp",
+    "category": "men",
+    "price": 79.99,
+    "rating": 4.8,
+    "description": "Luxury wrist watch.",
+    "quantity": 12
+  },
+  {
+    "id": 17,
+    "name": "Women's Sunglasses",
+    "photoURL": "https://i5.walmartimages.com/seo/Joopin-Polarized-Sunglasses-for-Women-Ladies-Wide-Frame-Sun-Glasses-UV-Blocking-Black-Purple_69b2451c-174f-4ab6-95d6-eedb53397653.187084130fabbb891488f42a385314bc.jpeg",
+    "category": "women",
+    "price": 19.99,
+    "rating": 4.4,
+    "description": "Stylish UV protection sunglasses.",
+    "quantity": 40
+  },
+  {
+    "id": 18,
+    "name": "Kids Backpack",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/703b4a19b9012976a9636af194414eea.jpg_720x720q80.jpg",
+    "category": "kids",
+    "price": 21.99,
+    "rating": 4.5,
+    "description": "Colorful school backpack.",
+    "quantity": 33
+  },
+  {
+    "id": 19,
+    "name": "Men's Cap",
+    "photoURL": "https://m.media-amazon.com/images/I/71S8VdQ-7VS._AC_UY1100_.jpg",
+    "category": "men",
+    "price": 9.99,
+    "rating": 4.2,
+    "description": "Casual baseball cap.",
+    "quantity": 70
+  },
+  {
+    "id": 20,
+    "name": "Women's Scarf",
+    "photoURL": "https://tiimg.tistatic.com/fp/1/008/324/skin-friendly-long-length-printed-cotton-women-scarf-021.jpg",
+    "category": "women",
+    "price": 14.99,
+    "rating": 4.3,
+    "description": "Soft winter scarf.",
+    "quantity": 38
+  },
+  {
+    "id": 21,
+    "name": "Kids Sandals",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/32fecdda40ca911ab758f4559b675cb7.jpg_720x720q80.jpg",
+    "category": "kids",
+    "price": 16.99,
+    "rating": 4.4,
+    "description": "Comfortable sandals for kids.",
+    "quantity": 42
+  },
+  {
+    "id": 22,
+    "name": "Men's Formal Shirt",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/dc005af856f1470b557cb662eecc615f.jpg_720x720q80.jpg",
+    "category": "men",
+    "price": 31.99,
+    "rating": 4.6,
+    "description": "Perfect for office wear.",
+    "quantity": 27
+  },
+  {
+    "id": 23,
+    "name": "Women's Top",
+    "photoURL": "https://twelvebd.com/cdn/shop/files/ZA-TOP-TW26-03EF-108642_8.jpg?v=1771663927&width=533",
+    "category": "women",
+    "price": 18.99,
+    "rating": 4.5,
+    "description": "Casual stylish top.",
+    "quantity": 36
+  },
+  {
+    "id": 24,
+    "name": "Kids Pajamas",
+    "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAU1PaG6jhT2nyyW8S3hJlcFwQ7lOlX3iSQ&s",
+    "category": "kids",
+    "price": 17.99,
+    "rating": 4.3,
+    "description": "Soft sleepwear for kids.",
+    "quantity": 29
+  },
+  {
+    "id": 25,
+    "name": "Men's Belt",
+    "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDfsiqXZEqd1TvKLfwTdL7Gp-mdRFMHVE8w&s",
+    "category": "men",
+    "price": 12.99,
+    "rating": 4.2,
+    "description": "Genuine leather belt.",
+    "quantity": 50
+  },
+  {
+    "id": 26,
+    "name": "Women's Necklace",
+    "photoURL": "https://i5.walmartimages.com/seo/Time-and-Tru-Women-s-Layered-Necklace-with-Cubic-Zirconia-Pendant_e7e5199b-22f7-4975-ae73-c6b9013d6177.d7c571843b413acbac2df0a822e15296.jpeg",
+    "category": "women",
+    "price": 25.99,
+    "rating": 4.7,
+    "description": "Elegant jewelry piece.",
+    "quantity": 19
+  },
+  {
+    "id": 27,
+    "name": "Kids Toy Set",
+    "photoURL": "https://static-01.daraz.com.bd/p/1715d3c5af51168c288a91b00891d78d.jpg",
+    "category": "kids",
+    "price": 22.99,
+    "rating": 4.6,
+    "description": "Fun educational toy set.",
+    "quantity": 34
+  },
+  {
+    "id": 28,
+    "name": "Men's Hoodie",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/33d443e2f10b5896c21dc3b62ccf0cca.jpg_720x720q80.jpg",
+    "category": "men",
+    "price": 35.99,
+    "rating": 4.5,
+    "description": "Warm and comfortable hoodie.",
+    "quantity": 23
+  },
+  {
+    "id": 29,
+    "name": "Women's Flats",
+    "photoURL": "https://www.nawabishoesbd.com/cdn/shop/files/3_c8bf4211-2ab1-4235-b51a-fb67de4a3da9.png?v=1772629374",
+    "category": "women",
+    "price": 28.99,
+    "rating": 4.4,
+    "description": "Comfortable daily wear shoes.",
+    "quantity": 31
+  },
+  {
+    "id": 30,
+    "name": "Kids Hat",
+    "photoURL": "https://img.drz.lazcdn.com/static/bd/p/d4b3c0d3ab221ed1c505316688a429d8.jpg_720x720q80.jpg",
+    "category": "kids",
+    "price": 8.99,
+    "rating": 4.1,
+    "description": "Cute and colorful hat.",
+    "quantity": 55
+  }
+]
